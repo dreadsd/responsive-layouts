@@ -3,6 +3,8 @@
 Study of responsive design behavior based on popular web pages. Credits to the
 original developers.
 
+***These are not full copies***
+
 |Layout|Original|Technique|
 |------|--------|---------|
 |tnw|[The Next Web](https://thenextweb.com/)|flexbox and grid|
