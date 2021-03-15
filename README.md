@@ -40,11 +40,15 @@ for its support.
 [MIT](https://opensource.org/licenses/MIT)
 
 ## Screenshots
-### TNW
-![tnw-laptop-size](images/tnw-laptop.png)
-![tnw-tablet-size](images/tnw-tablet.png)
-![tnw-mobile-size](images/tnw-mobile.png)
+### MCQ
+![mcq-laptop-size](images/mcq-laptop.png)
+![mcq-tablet-size](images/mcq-tablet.png)
+![mcq-mobile-size](images/mcq-mobile.png)
 ### NW
 ![nw-laptop-size](images/nw-laptop.png)
 ![nw-tablet-size](images/nw-tablet.png)
 ![nw-mobile-size](images/nw-mobile.png)
+### TNW
+![tnw-laptop-size](images/tnw-laptop.png)
+![tnw-tablet-size](images/tnw-tablet.png)
+![tnw-mobile-size](images/tnw-mobile.png)
