@@ -1,0 +1,68 @@
+* {box-sizing: border-box}
+
+.color1 {background: #ff9999}
+.color2 {background: #99ff99}
+.color3 {background: #9999ff}
+.color4 {background: #ffff99}
+.color5 {background: #99ffff}
+.color6 {background: #ff99ff}
+
+.navbar {
+  position: sticky;
+  top: 0;
+}
+
+.plus-sign {
+  height: 2.875rem;
+}
+
+.heading {
+  height: 1rem;
+  margin: 0rem 6rem 6rem;
+  display: none;
+}
+
+.widget {
+  float: right;
+  height: 100%;
+  width: 2.876rem;
+}
+
+.card {
+  height: 100%;
+}
+
+[class^="col-"] {
+  height: 13rem;
+  padding: 1.04rem;
+}
+
+@media screen and (min-width: 576px) {
+  [class^="col-"] {
+    height: 21.88175rem;
+    padding: 1.3261875rem;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  [class^="col-"] {
+    height: 28.6269375rem;
+    padding: 1.5640625rem;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .heading {
+    display: block;
+  }
+
+  [class^="col-"] {
+    height: 35.6269375rem;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  [class^="col-"] {
+    height: 42.1550625rem;
+  }
+}

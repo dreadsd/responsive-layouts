@@ -9,6 +9,7 @@ original developers.
 |------|--------|---------|
 |tnw|[The Next Web](https://thenextweb.com/)|flexbox and grid|
 |nw|[Newsweek](https://www.newsweek.com/)|bootstrap|
+|mcq|[McQuade Inc.](https://mikemcquade.com/)|[simple-gird](https://github.com/dreadsd/simple-grid)|
 
 ## Installation
 ```sh
